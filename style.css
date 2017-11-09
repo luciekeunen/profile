@@ -6,7 +6,7 @@ body {
   font-weight: 100;
   line-height: 1.5em;
   text-align: center;
-  background-image: url("/images/sky.jpg");
+  background-image: url("images/sky.jpg");
   background-size: cover;
 }
 
